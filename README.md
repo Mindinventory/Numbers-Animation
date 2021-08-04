@@ -25,7 +25,7 @@
 4.  [License](#license)
  
 ## Description
-Numbers animation allows you to click on different numbers and accrodingly it will animate numbers in a cool way. It has very attractive ui and is very easy to use.
+Numbers animation allows you to click on different numbers and accordingly it will animate numbers in a cool way. It has very attractive UI and is very easy to use.
 
 <b>Animation used</b>
 
