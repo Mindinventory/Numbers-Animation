@@ -68,7 +68,7 @@ extension CollNumbers: UICollectionViewDataSource, UICollectionViewDelegate, UIC
             animateCell(row: indexPath.row, numberCell: numbersCell)
         }
     }
-    
+
     // MARK: - CollectionView FlowLayout Methods
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout,
                         sizeForItemAt indexPath: IndexPath) -> CGSize {
