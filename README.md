@@ -33,7 +33,6 @@ Numbers animation allows you to click on different numbers and accrodingly it wi
 3.  ```CGAffineTransform(translationX: , y: )```
 4.  ```UIView.transition(with: , duration: , options: .transitionFlipFromRight, animations: , completion: )```
 
-
 ## How to add in your project
 
 1.  Clone or download the repo
