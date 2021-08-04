@@ -30,11 +30,11 @@ extension CollNumbers {
 
 // MARK: - UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout Methods -
 extension CollNumbers: UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout {
-    
+
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return numbersData.count
     }
-    
+
     func collectionView(_ collectionView: UICollectionView,
                         cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
 
@@ -53,7 +53,7 @@ extension CollNumbers: UICollectionViewDataSource, UICollectionViewDelegate, UIC
         let delay = sqrt(Double(indexPath.row)) * 0.5
 
         UIView.animate(withDuration: 0.8, delay: delay,
-                       options: .curveEaseOut,  animations: { [weak self] in
+                       options: .curveEaseOut, animations: { [weak self] in
 
             if let numbersCell = cell as? NumbersCell {
                 numbersCell.transform = CGAffineTransform(translationX: 0, y: 0)
