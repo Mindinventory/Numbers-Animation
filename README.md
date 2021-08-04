@@ -6,6 +6,7 @@
 <a href="https://developer.apple.com/ios/" style="pointer-events: stroke;" target="_blank">
 <img src="https://img.shields.io/badge/platform-iOS-red">
 </a>
+<a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nikunjprajapati95/Numbers-Animation&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/012f1bcec9954390bf257d407a595a75"/></a>
 <a href="https://github.com/nikunjprajapati95/Numbers-Animation/blob/main/LICENSE" style="pointer-events: stroke;" target="_blank">
 <img src="https://img.shields.io/badge/licence-MIT-orange">
 </a>
